@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@font-face {
+    font-family: 'Neutra Text Bold';
+    src: local('Neutra Text Bold'), url('C:/Users/dallo/AppData/Local/Microsoft/Windows/Fonts/Neutra-Text-Bold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Raleway Thin';
+    src: local('Raleway Thin'), url('C:/Users/dallo/AppData/Local/Microsoft/Windows/Fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Getting Shine Regular';
+    src: local('Getting Shine Regular'), url('C:/Users/dallo/AppData/Local/Microsoft/Windows/Fonts/Getting-Shine-Regular.ttf') format('truetype');
+  } */
