@@ -73,7 +73,7 @@ const LandingPage = ()=> {
 
     return (
         <div className='bg-[#E5E8F3]'>
-            <div className="bg-[#008394] h-16 flex justify-between"> 
+            <div className="bg-[#198f9e] h-16 flex justify-between"> 
                 <img src={logo} className='h-9 m-3'/>
                 <h2 className='mt-5 text-white'>INICIO</h2>
                 <h2 className='mt-5 text-white'>NUESTROS PRODUCTOS</h2>
@@ -111,7 +111,7 @@ const LandingPage = ()=> {
             <PanelSection />
             <Link to={'/calendar_event'}>
                 <div className='flex justify-center items-center'>
-            <button className='flex justify-center bg-[#ccd1e8] p-2 w-32 rounded-xl'>Ver más</button>
+            <button className='flex justify-center bg-white p-2 w-32 rounded-xl'>Ver más</button>
             </div>
             </Link>
             <h2 className='mx-14 my-14 text-black font-bold text-3xl text-center'>PRODUCTOS EXCLUSIVOS EN PREVENTA</h2>
@@ -191,7 +191,7 @@ const LandingPage = ()=> {
                         </div>
                     </div>
                 </div>
-                <Link to={'/store'}><button className='flex justify-center items-center bg-white py-2 px-5 rounded-xl mt-3'>Ver más</button></Link>
+                <Link to={'/store'}><button className='flex justify-center items-center bg-white py-2 px-5 rounded-xl mt-3'>Ir a la tienda</button></Link>
             </div>
             <FooterPage />
         </div>

@@ -39,7 +39,7 @@ const ModalDescriptionProduct = ( {isOpen, onClose} )=> {
                         <h2 className='mt-4'>Métodos de pago:</h2>
                         <img src={metodosDePago} className='w-72 my-2'/> 
                         <h2 className='my-2 font-semibold text-[#68C560]'>Envío gratis a todo el país</h2>
-                        <button className=' bg-primary p-2 mt-6 w-36 rounded-2xl '>Añadir al carrito</button>
+                        <button className='bg-[#ccd1e8] p-2 mt-6 w-36 rounded-2xl '>Añadir al carrito</button>
                     </div>
                 </div>
             </div>

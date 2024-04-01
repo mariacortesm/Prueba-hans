@@ -20,7 +20,7 @@ const ModalLogin = ({ isOpen, onClose, openModal, ModalRegister }) => {
                     <h2 className='my-2 flex justify-center text-xl font-bold'>¡Inicia sesión!</h2>
                     <input className='border border-gray-800 w-96 rounded-xl p-2 my-2' placeholder='Ingresa tu correo electrónico'></input>
                     <input className='border border-gray-800 w-96 rounded-xl p-2 my-2' placeholder='Ingresa tu contraseña'></input>
-                    <button className=' bg-primary p-2 my-4 w-36 rounded-2xl '>Iniciar sesión</button>
+                    <button className=' bg-[#ccd1e8] p-2 my-4 w-36 rounded-2xl '>Iniciar sesión</button>
                     <p className='underline pt-2' onClick={handleShowModal}>¿Aún no tienes una cuenta? Haz clic aquí</p>
                 </div>
             </div>

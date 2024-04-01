@@ -26,7 +26,7 @@ const ModalFormAlert = ({ isOpen, onClose }) => {
                 <div className='flex flex-col p-5 justify-center items-center'>
                     <h2 className='text-center font-bold'>¡Felicitaciones! Te has inscrito correctamente</h2>
                     <img src={formRegister} className=' w-60 '/>
-                    <h3 className='w-96 text-center'>Pronto recibirás un correo electrónico con todos los detalles del evento.  <br />¡Prepárate para sumergirte en una experiencia inolvidable!</h3>
+                    <h3 className='w-96 text-center'>Pronto recibirás un correo electrónico con todos los detalles del evento.  <br /> <br />¡Prepárate para sumergirte en una experiencia inolvidable!</h3>
                 </div>
             </div>
         </div>

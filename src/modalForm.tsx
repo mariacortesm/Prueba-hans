@@ -30,7 +30,7 @@ const ModalForm = ({ isOpen, onClose, openModal, ModalFormAlert }) => {
                     </div>
 
                     <div className="flex justify-center">
-                        <button className='flex justify-center bg-primary p-2 my-2 w-36 rounded-2xl' onClick={handleShowModalForm}>Inscribirse</button>
+                        <button className='flex justify-center bg-[#ccd1e8] p-2 my-2 w-36 rounded-2xl' onClick={handleShowModalForm}>Inscribirse</button>
                     </div>
                 </div>
             </div>

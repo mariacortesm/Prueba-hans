@@ -17,7 +17,7 @@ const ModalRegister = ({ isOpen, onClose }) => {
                     <input className='border border-gray-800 w-96 rounded-xl p-2 my-2' placeholder='Ingresa tu correo electrónico'></input>
                     <input className='border border-gray-800 w-96 rounded-xl p-2 my-2' placeholder='Ingresa tu contraseña'></input>
                     <input className='border border-gray-800 w-96 rounded-xl p-2 my-2' placeholder='Confirma tu contraseña'></input>
-                    <button className=' bg-primary p-2 my-2 w-36 rounded-2xl '>Registrarse</button>
+                    <button className='bg-[#ccd1e8] p-2 my-2 w-36 rounded-2xl '>Registrarse</button>
                 </div>
             </div>
         </div>
