@@ -22,7 +22,7 @@ Y también se realizó el video interactivo en Figma para la correcta visualizac
 
 <div>
     <a href="https://www.loom.com/share/ef80bd940ac64847bdeb0bc43755e6a9">
-      <p>Library | Loom - 27 January 2025 - Watch Video</p>
+      <p>Dessarrollo prueba Hans video</p>
     </a>
     <a href="https://www.loom.com/share/ef80bd940ac64847bdeb0bc43755e6a9">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ef80bd940ac64847bdeb0bc43755e6a9-87c3880313e9c83c-full-play.gif">
